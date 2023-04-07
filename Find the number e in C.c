@@ -11,9 +11,6 @@ float fact(float x)
     }
     return fact;
 }
-//To find the number e, we must use a formula.
-//The formula is 1+ 1/1! + 1/2! + 1/3!...
-//Longer you go, your result will get closer to the number e.
 float find_e(float n)
 {
     int i,j;
