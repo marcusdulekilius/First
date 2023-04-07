@@ -2,10 +2,6 @@
 
 ![Insert-Operation-in-Unorted-Array](https://user-images.githubusercontent.com/114644911/230565744-f9625426-7b01-4eb2-a20f-42f893ea32a5.png)
 
-# Finding Max Digit
-
-![javascript-basic-image-exercise-103](https://user-images.githubusercontent.com/114644911/230566370-c4fddaec-31cc-4ee4-9156-fa593f44161b.png)
-
 # Finding the number e 
 
 ![Ekran görüntüsü 2023-04-07 101045](https://user-images.githubusercontent.com/114644911/230561451-b762fa95-d146-45c8-9f41-bf1e56c38430.png)
@@ -13,6 +9,10 @@
 # Finding the number π 
 
 ![Ekran görüntüsü 2023-04-07 101544](https://user-images.githubusercontent.com/114644911/230561657-301c6fa2-4e11-42b8-bb7c-2dc315fa0d35.png)
+
+# Finding Max Digit
+
+![javascript-basic-image-exercise-103](https://user-images.githubusercontent.com/114644911/230566370-c4fddaec-31cc-4ee4-9156-fa593f44161b.png)
 
 # Prime Numbers in a Closed Interval 
 
