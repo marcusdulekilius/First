@@ -35,3 +35,7 @@
 
 
 ![Ekran görüntüsü 2023-04-07 101647](https://user-images.githubusercontent.com/114644911/230561786-6047f594-98bd-4f65-b043-ae9b25659eec.png)
+
+# Prime Numbers in a Closed Interval in C
+
+![Ekran görüntüsü 2023-04-07 103106](https://user-images.githubusercontent.com/114644911/230563714-7fb29a95-0052-40bb-9d44-4bdf3fe62245.png)
