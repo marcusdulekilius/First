@@ -14,6 +14,10 @@
 
 ![javascript-basic-image-exercise-103](https://user-images.githubusercontent.com/114644911/230566370-c4fddaec-31cc-4ee4-9156-fa593f44161b.png)
 
+# Max Diff Between Consecutives
+
+![javascript-basic-image-exercise-92](https://user-images.githubusercontent.com/114644911/230567207-06cf3fb2-376f-4c65-9d3a-154233bae121.png)
+
 # Prime Numbers in a Closed Interval 
 
 ![Ekran görüntüsü 2023-04-07 103106](https://user-images.githubusercontent.com/114644911/230563714-7fb29a95-0052-40bb-9d44-4bdf3fe62245.png)
