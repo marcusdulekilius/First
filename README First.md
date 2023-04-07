@@ -20,4 +20,5 @@
 
 # Target Finder 
 
+Link: https://leetcode.com/problems/two-sum/
 ![Ekran görüntüsü 2023-04-07 101647](https://user-images.githubusercontent.com/114644911/230561786-6047f594-98bd-4f65-b043-ae9b25659eec.png)
