@@ -29,6 +29,10 @@
 
 ![Ekran görüntüsü 2023-04-07 103638](https://user-images.githubusercontent.com/114644911/230564499-04c34b56-1e45-4e11-97dc-663105ef2a2c.png)
 
+# Soddy Circles
+![image](https://github.com/marcusdulekilius/First/assets/114644911/ad02bf1b-6164-4409-8bac-b90dee320fb2)
+
+
 # Tangent Circles
 
 ![image](https://github.com/marcusdulekilius/First/assets/114644911/5a22f45a-9f62-4a86-9e52-3455ea192239)
