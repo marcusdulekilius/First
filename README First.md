@@ -2,8 +2,8 @@
 
 ![Insert-Operation-in-Unorted-Array](https://user-images.githubusercontent.com/114644911/230565744-f9625426-7b01-4eb2-a20f-42f893ea32a5.png)
 
-#Count Difference 
-file:///C:/Users/dulek/Downloads/b804372b-0431-4114-99fe-ba4598a11ab3.jpg
+# Count Difference 
+
 
 # Finding the number e 
 
